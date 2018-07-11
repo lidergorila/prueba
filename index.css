@@ -7,3 +7,11 @@ h1 {
 .special {
   color: red;
 }
+
+.clase2 {
+  font-style: italic;
+}
+
+#id-prueba {
+  color: green;
+}
